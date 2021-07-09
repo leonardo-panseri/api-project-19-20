@@ -1,0 +1,7 @@
+/cmake-build-debug-wsl/
+/cmake-build-debug/
+/test/__generator/
+/qcachegrind/
+/.idea/
+*.bat
+/docs/
